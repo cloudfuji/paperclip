@@ -2,7 +2,7 @@ $LOAD_PATH.push File.expand_path("../lib", __FILE__)
 require 'paperclip/version'
 
 Gem::Specification.new do |s|
-  s.name              = "paperclip"
+  s.name              = "cloudfuji_paperclip"
   s.version           = Paperclip::VERSION
   s.platform          = Gem::Platform::RUBY
   s.author            = "Jon Yurek"
