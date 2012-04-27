@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version           = Paperclip::VERSION
   s.platform          = Gem::Platform::RUBY
   s.author            = "Jon Yurek"
-  s.email             = ["jyurek@thoughtbot.com"]
+  s.email             = ["sean@fakecoolguys.com", "jyurek@thoughtbot.com"]
   s.homepage          = "https://github.com/thoughtbot/paperclip"
   s.summary           = "File attachments as attributes for ActiveRecord"
   s.description       = "Easy upload management for ActiveRecord"
